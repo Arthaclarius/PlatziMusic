@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "platzimusic",
+    "description": "An empty new project",
+    "slug": "platzimusic",
+    "privacy": "public",
+    "sdkVersion": "20.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.fff.platzimusic"
+    },
+    "android": {
+      "package": "com.fff.platzimusic"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp285b4f3e982a4eb7ba98682e03d8bc6f",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.19.1-sdk20.0.0-5b613054-1239-439f-9c3a-0aad67cbe39a.tar.gz"
+    }
+  }
+}
